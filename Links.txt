@@ -1,0 +1,10 @@
+
+
+IMP Links:-
+
+1. accessing list of dicts in python
+https://stackoverflow.com/questions/17117912/python-accessing-values-in-a-list-of-dictionaries/43496398
+
+2.how to store  for loop values in list or tuple
+
+https://stackoverflow.com/questions/33553046/storing-values-from-loop-in-a-list-or-tuple-in-python/33553178
